@@ -1,7 +1,7 @@
 # 📌 TaskHub - Gestor de Tareas Colaborativo  
 
 TaskHub es una aplicación web para gestionar tareas personales y colaborativas.  
-Permite a los usuarios crear, organizar y compartir tareas con grupos de trabajo de manera sencilla y eficiente.  
+Permite a los usuarios crear, organizar y compartir tareas con grupos de trabajo de manera sencilla y eficiente..
 
 ---
 
